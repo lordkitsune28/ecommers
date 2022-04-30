@@ -1,0 +1,15 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "lord kitsune",
+            "email": "carlosassasi1505@gmail.com",
+            "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1639140150/imgStarWars/1_rjqvhq.jpg",
+            "tipo": "master",
+            "tiempo": 0,
+            "contestadas": 0,
+            "respuestasC": 0,
+            "respuestasI": 0
+        }
+    ]
+}
